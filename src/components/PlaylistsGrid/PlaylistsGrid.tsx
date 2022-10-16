@@ -2,8 +2,10 @@ import React, { useEffect, useState } from 'react';
 import styled from 'styled-components';
 import { spacing } from '@/theme';
 import { isTab, Playlist } from '@/types';
-import { useParams } from 'react-router-dom';
+import { useNavigate, useParams } from 'react-router-dom';
 import { readPage } from '@/modules/indexDB';
+import { useTabsInfo } from '@/hooks/useTabsInfo';
+import { TABS } from '@/config';
 import Card from './Card';
 import Pagination from './Pagination';
 
@@ -23,19 +25,32 @@ const Grid = styled.div`
 
 function PlaylistsGrid() {
   const [playlists, setPlaylists] = useState<Playlist[]>([]);
+  const { regular, special } = useTabsInfo();
+  const navigate = useNavigate();
   const { page, tab } = useParams();
+  const requestedPage = page ? parseInt(page) : 0;
 
   useEffect(() => {
     async function readPageFromDB() {
-      if (page && tab && isTab(tab)) {
-        const res = await readPage(parseInt(page), tab);
+      if (tab && isTab(tab)) {
+        const res = await readPage(requestedPage, tab);
         setPlaylists(res);
       } else {
-        console.error('error while reading page from DB', { page, tab });
+        console.error('error while reading page from DB', {
+          requestedPage,
+          tab,
+        });
       }
     }
     readPageFromDB();
-  }, [page, tab]);
+  }, [requestedPage, tab]);
+
+  if (tab === TABS.regular && requestedPage > regular.pageCount) {
+    navigate('/404');
+  }
+  if (tab === TABS.special && requestedPage > special.pageCount) {
+    navigate('/404');
+  }
 
   return (
     <>
