@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Must match theme in manifest.json -->
+    <meta name="theme-color" content="#47646f" />
+
+    <!-- favicon -->
+    <link rel="icon" type="image/svg+xml" href="/assets/icon-vector.svg" />
+
+    <!-- Safari -->
+    <link rel="apple-touch-icon" href="/assets/icon-apple-touch.png" />
+
+    <link rel="manifest" href="/manifest.json" />
+
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+    </style>
+
+    <!-- TODO reactivate service worker (display alert when offline) -->
+    <!-- <script>
+      window.addEventListener('load', () => {
+        if ('serviceWorker' in navigator) {
+          navigator.serviceWorker.register('/sw.js');
+        }
+      });
+    </script> -->
+
+    <title>Playlists Galore</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/index.tsx"></script>
+  </body>
+</html>

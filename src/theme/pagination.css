@@ -1,0 +1,36 @@
+.pagination {
+  display: flex;
+  padding-left: 0;
+  list-style: none;
+  align-items: center;
+  margin-block-start: 1.2rem;
+  margin-block-end: 1.2rem;
+}
+
+.pagination > :first-of-type,
+.pagination > :last-of-type {
+  font-size: large;
+}
+
+.page-item:not(:last-of-type) {
+  margin-right: 0.5rem;
+}
+
+.page-item > .page-link {
+  display: block;
+  text-align: center;
+  width: 2rem;
+  cursor: pointer;
+  user-select: none;
+}
+
+.page-item.disabled > .page-link {
+  color: #2b6684;
+  cursor: default;
+}
+
+.page-item.active > .page-link {
+  color: #2b6684;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+}

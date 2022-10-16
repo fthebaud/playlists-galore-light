@@ -42,7 +42,7 @@ _Note:_ Hosting tool can be combined with [cloud function or cloud run](https://
 
 ```sh
 # build new version
-yarn build
+npm run build
 
 # deploy new version
 firebase deploy
