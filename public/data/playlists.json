@@ -1,5 +1,5 @@
 {
-  "timestamp": 202210141859,
+  "timestamp": 202210161705,
   "playlists": [
     {
       "name": "Ambient Sounds / Neo-Classical",
@@ -59,6 +59,36 @@
         "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSKhcg447B7Yc-4t8xIC_7Ew",
         "deezer": "https://deezer.page.link/m8cm17QUN7EPQdD46",
         "tidal": "https://tidal.com/browse/playlist/62a9298f-6c14-4769-9cf6-577eb86adbce"
+      }
+    },
+    {
+      "name": "October 2022 - Just Trying To Mend Your Heart",
+      "lastUpdate": "20221001",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b27309c795d408a125ac038c1fd0ab67616d0000b27320078e08a770b01bd5aa9271ab67616d0000b2735f046546434d8fc6a88fac45ab67616d0000b27391d5af63d5acc752950d5927",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b27309c795d408a125ac038c1fd0ab67616d0000b27320078e08a770b01bd5aa9271ab67616d0000b2735f046546434d8fc6a88fac45ab67616d0000b27391d5af63d5acc752950d5927",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b27309c795d408a125ac038c1fd0ab67616d0000b27320078e08a770b01bd5aa9271ab67616d0000b2735f046546434d8fc6a88fac45ab67616d0000b27391d5af63d5acc752950d5927",
+          "width": 60
+        }
+      ],
+      "category": "monthly",
+      "tags": [],
+      "totalTracks": 21,
+      "url": {
+        "spotify": "https://open.spotify.com/playlist/1lgJpty9DXSfXZ7lMNCLEe",
+        "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSLNaQ48PvfCLSTXx2CURubc",
+        "deezer": "https://deezer.page.link/9VJwudrDkKBCu6nR8",
+        "tidal": "https://tidal.com/browse/playlist/860eb823-76e2-4f2e-b04c-f95b2d694c6c"
       }
     },
     {
