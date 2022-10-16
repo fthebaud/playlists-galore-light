@@ -11,9 +11,11 @@ import Pagination from './Pagination';
 
 const GridContainer = styled.div`
   flex: 1;
+  width: 100%;
 `;
 
 const Grid = styled.div`
+  margin: auto;
   max-width: 1600px;
   width: 100%;
   padding: 0 ${spacing(2)};
