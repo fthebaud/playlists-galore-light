@@ -1,5 +1,5 @@
 {
-  "timestamp": 202210161705,
+  "timestamp": 202211131730,
   "playlists": [
     {
       "name": "Ambient Sounds / Neo-Classical",
@@ -23,7 +23,7 @@
       ],
       "category": "ongoing",
       "tags": [],
-      "totalTracks": 231,
+      "totalTracks": 251,
       "url": {
         "spotify": "https://open.spotify.com/playlist/0bSX1pd4ds057UqZiso8jH",
         "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSJwQld0KK0FnJIKnyI7Jks_",
@@ -59,6 +59,36 @@
         "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSKhcg447B7Yc-4t8xIC_7Ew",
         "deezer": "https://deezer.page.link/m8cm17QUN7EPQdD46",
         "tidal": "https://tidal.com/browse/playlist/62a9298f-6c14-4769-9cf6-577eb86adbce"
+      }
+    },
+    {
+      "name": "November 2022 - On A Friday Night",
+      "lastUpdate": "20221101",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b27359e1c2cfb6f33f9eb380c2c7ab67616d0000b2738f287ae3c82a5d63072d752dab67616d0000b2739bcd4d4f45c287201579785aab67616d0000b273e24a7eeca7a6ec51f00feeef",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b27359e1c2cfb6f33f9eb380c2c7ab67616d0000b2738f287ae3c82a5d63072d752dab67616d0000b2739bcd4d4f45c287201579785aab67616d0000b273e24a7eeca7a6ec51f00feeef",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b27359e1c2cfb6f33f9eb380c2c7ab67616d0000b2738f287ae3c82a5d63072d752dab67616d0000b2739bcd4d4f45c287201579785aab67616d0000b273e24a7eeca7a6ec51f00feeef",
+          "width": 60
+        }
+      ],
+      "category": "monthly",
+      "tags": [],
+      "totalTracks": 22,
+      "url": {
+        "spotify": "https://open.spotify.com/playlist/7pAgvesl0fjO0Vp7LooVrG",
+        "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSL77xQO85j5mXfdea3ycBGl",
+        "deezer": "https://deezer.page.link/6KrozjnYgtW5BJRP9",
+        "tidal": "https://tidal.com/browse/playlist/3ac1c3ed-8318-4134-8729-132b4c0f45a5"
       }
     },
     {
