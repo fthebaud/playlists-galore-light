@@ -1,9 +1,9 @@
 {
-  "timestamp": 202211131730,
+  "timestamp": 202212111300,
   "playlists": [
     {
       "name": "Ambient Sounds / Neo-Classical",
-      "lastUpdate": "20220901",
+      "lastUpdate": "20221211",
       "images": [
         {
           "height": 640,
@@ -23,7 +23,7 @@
       ],
       "category": "ongoing",
       "tags": [],
-      "totalTracks": 251,
+      "totalTracks": 254,
       "url": {
         "spotify": "https://open.spotify.com/playlist/0bSX1pd4ds057UqZiso8jH",
         "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSJwQld0KK0FnJIKnyI7Jks_",
@@ -59,6 +59,36 @@
         "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSKhcg447B7Yc-4t8xIC_7Ew",
         "deezer": "https://deezer.page.link/m8cm17QUN7EPQdD46",
         "tidal": "https://tidal.com/browse/playlist/62a9298f-6c14-4769-9cf6-577eb86adbce"
+      }
+    },
+    {
+      "name": "Christmas Playlist",
+      "lastUpdate": "20221211",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b2730387e54a214e3ed5ff795956ab67616d0000b273abde0944a8b580f327a6e2ecab67616d0000b273bfaff28ff8f72f71ad975770ab67616d0000b273d5f598be32d3027b9578ecd6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b2730387e54a214e3ed5ff795956ab67616d0000b273abde0944a8b580f327a6e2ecab67616d0000b273bfaff28ff8f72f71ad975770ab67616d0000b273d5f598be32d3027b9578ecd6",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b2730387e54a214e3ed5ff795956ab67616d0000b273abde0944a8b580f327a6e2ecab67616d0000b273bfaff28ff8f72f71ad975770ab67616d0000b273d5f598be32d3027b9578ecd6",
+          "width": 60
+        }
+      ],
+      "category": "misc.",
+      "tags": [],
+      "totalTracks": 42,
+      "url": {
+        "spotify": "https://open.spotify.com/playlist/1SgorvhoCAM93DIV6F7EAr",
+        "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSLtlpXr2tTFC9paD0Ui2ZVB",
+        "deezer": "https://deezer.page.link/tKkgsXYqhe2WLuGQ9",
+        "tidal": "https://tidal.com/browse/playlist/7c76c399-8eb1-47ce-b9c5-229c473bf027"
       }
     },
     {
@@ -4344,7 +4374,7 @@
     },
     {
       "name": "D/\\nCe",
-      "lastUpdate": "20220604",
+      "lastUpdate": "20221210",
       "images": [
         {
           "height": 640,
@@ -4364,7 +4394,7 @@
       ],
       "category": "misc.",
       "tags": [],
-      "totalTracks": 24,
+      "totalTracks": 25,
       "url": {
         "spotify": "https://open.spotify.com/playlist/565d22AZojeZyx5RBTqhg6",
         "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSJeqC-7mrddvRWD0qODIpwT",
