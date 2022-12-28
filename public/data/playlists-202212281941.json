@@ -1,9 +1,9 @@
 {
-  "timestamp": 202212261851,
+  "timestamp": 202212281941,
   "playlists": [
     {
       "name": "Ambient Sounds / Neo-Classical",
-      "lastUpdate": "20221211",
+      "lastUpdate": "20221231",
       "images": [
         {
           "height": 640,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Indie And Lo-Fi Vibes",
-      "lastUpdate": "20220417",
+      "lastUpdate": "20221230",
       "images": [
         {
           "height": 640,
@@ -92,8 +92,38 @@
       }
     },
     {
+      "name": "Everything from playlist galore 2022",
+      "lastUpdate": "20221227",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b273181f6c66090a4c0747d1bbd8ab67616d0000b2734599fdba5f431f3b419349a0ab67616d0000b2735bd1d1082e969cc25312e0b2ab67616d0000b273f580ac476598d2144c8e9d8c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b273181f6c66090a4c0747d1bbd8ab67616d0000b2734599fdba5f431f3b419349a0ab67616d0000b2735bd1d1082e969cc25312e0b2ab67616d0000b273f580ac476598d2144c8e9d8c",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b273181f6c66090a4c0747d1bbd8ab67616d0000b2734599fdba5f431f3b419349a0ab67616d0000b2735bd1d1082e969cc25312e0b2ab67616d0000b273f580ac476598d2144c8e9d8c",
+          "width": 60
+        }
+      ],
+      "category": "misc.",
+      "tags": [],
+      "totalTracks": 150,
+      "url": {
+        "spotify": "https://open.spotify.com/playlist/5MU3im4nNGaZjdXVJuzjq0",
+        "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSJ5bVHlOXzAil4-fmof_8Wd",
+        "deezer": "https://deezer.page.link/aJcBwwwAiMfncYdDA",
+        "tidal": "https://tidal.com/browse/playlist/fbe1df0c-c33f-4b7a-9673-a93767a77835"
+      }
+    },
+    {
       "name": "Christmas Playlist",
-      "lastUpdate": "20221211",
+      "lastUpdate": "20221228",
       "images": [
         {
           "height": 640,
@@ -4404,7 +4434,7 @@
     },
     {
       "name": "D/\\nCe",
-      "lastUpdate": "20221210",
+      "lastUpdate": "20221229",
       "images": [
         {
           "height": 640,
