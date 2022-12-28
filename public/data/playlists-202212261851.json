@@ -1,5 +1,5 @@
 {
-  "timestamp": 202212111355,
+  "timestamp": 202212261851,
   "playlists": [
     {
       "name": "Ambient Sounds / Neo-Classical",
@@ -53,12 +53,42 @@
       ],
       "category": "misc.",
       "tags": [],
-      "totalTracks": 65,
+      "totalTracks": 66,
       "url": {
         "spotify": "https://open.spotify.com/playlist/3phb6HmOTkdvq6bYFBF5xf",
         "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSKhcg447B7Yc-4t8xIC_7Ew",
         "deezer": "https://deezer.page.link/m8cm17QUN7EPQdD46",
         "tidal": "https://tidal.com/browse/playlist/62a9298f-6c14-4769-9cf6-577eb86adbce"
+      }
+    },
+    {
+      "name": "December 2022 - Avec Les Nuages",
+      "lastUpdate": "20221226",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b2733c5ad7f1e50e6bb5a08bb74bab67616d0000b27393a1519118102a6d78164713ab67616d0000b2739d541c6b46a377e6f60fb998ab67616d0000b273d1bda10582c382a04e3e6140",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b2733c5ad7f1e50e6bb5a08bb74bab67616d0000b27393a1519118102a6d78164713ab67616d0000b2739d541c6b46a377e6f60fb998ab67616d0000b273d1bda10582c382a04e3e6140",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b2733c5ad7f1e50e6bb5a08bb74bab67616d0000b27393a1519118102a6d78164713ab67616d0000b2739d541c6b46a377e6f60fb998ab67616d0000b273d1bda10582c382a04e3e6140",
+          "width": 60
+        }
+      ],
+      "category": "monthly",
+      "tags": [],
+      "totalTracks": 19,
+      "url": {
+        "spotify": "https://open.spotify.com/playlist/6kUOqn07ILJrsqcL0tfBL5",
+        "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSIengxTIbuMKEtWNWwrj9mj",
+        "deezer": "https://deezer.page.link/LcqU6bt7VgvYo5JC8",
+        "tidal": "https://tidal.com/browse/playlist/2ddeca32-b22c-4e48-987d-c1fb1213ba00"
       }
     },
     {
@@ -83,7 +113,7 @@
       ],
       "category": "misc.",
       "tags": [],
-      "totalTracks": 50,
+      "totalTracks": 51,
       "url": {
         "spotify": "https://open.spotify.com/playlist/1SgorvhoCAM93DIV6F7EAr",
         "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSLtlpXr2tTFC9paD0Ui2ZVB",
