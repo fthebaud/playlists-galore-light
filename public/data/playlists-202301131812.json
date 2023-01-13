@@ -1,5 +1,5 @@
 {
-  "timestamp": 202212281941,
+  "timestamp": 202301131812,
   "playlists": [
     {
       "name": "Ambient Sounds / Neo-Classical",
@@ -59,6 +59,36 @@
         "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSKhcg447B7Yc-4t8xIC_7Ew",
         "deezer": "https://deezer.page.link/m8cm17QUN7EPQdD46",
         "tidal": "https://tidal.com/browse/playlist/62a9298f-6c14-4769-9cf6-577eb86adbce"
+      }
+    },
+    {
+      "name": "January 2023 - And here is the horizon",
+      "lastUpdate": "20230113",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b2731364642018a6ab55e65da8c2ab67616d0000b2734d9f7b88e82db31d13ac6668ab67616d0000b2735fd9e21618182df7d70b2186ab67616d0000b2736b5ae962903762aea414b355",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b2731364642018a6ab55e65da8c2ab67616d0000b2734d9f7b88e82db31d13ac6668ab67616d0000b2735fd9e21618182df7d70b2186ab67616d0000b2736b5ae962903762aea414b355",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b2731364642018a6ab55e65da8c2ab67616d0000b2734d9f7b88e82db31d13ac6668ab67616d0000b2735fd9e21618182df7d70b2186ab67616d0000b2736b5ae962903762aea414b355",
+          "width": 60
+        }
+      ],
+      "category": "monthly",
+      "tags": [],
+      "totalTracks": 19,
+      "url": {
+        "spotify": "https://open.spotify.com/playlist/4mKUF4xYkNCezwCN8YYciN",
+        "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSLgqsh4A6gJjbQhgqKujF_q",
+        "deezer": "https://deezer.page.link/tnS4UDcSvNjWYD4Q6",
+        "tidal": "https://tidal.com/browse/playlist/e9edea07-4c1d-4a59-98b1-28063a379be0"
       }
     },
     {
