@@ -1,9 +1,9 @@
 {
-  "timestamp": 202301131812,
+  "timestamp": 202303311840,
   "playlists": [
     {
       "name": "Ambient Sounds / Neo-Classical",
-      "lastUpdate": "20221231",
+      "lastUpdate": "20230331",
       "images": [
         {
           "height": 640,
@@ -23,7 +23,7 @@
       ],
       "category": "ongoing",
       "tags": [],
-      "totalTracks": 254,
+      "totalTracks": 265,
       "url": {
         "spotify": "https://open.spotify.com/playlist/0bSX1pd4ds057UqZiso8jH",
         "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSJwQld0KK0FnJIKnyI7Jks_",
@@ -33,7 +33,7 @@
     },
     {
       "name": "Indie And Lo-Fi Vibes",
-      "lastUpdate": "20221230",
+      "lastUpdate": "20230331",
       "images": [
         {
           "height": 640,
@@ -53,12 +53,42 @@
       ],
       "category": "misc.",
       "tags": [],
-      "totalTracks": 66,
+      "totalTracks": 70,
       "url": {
         "spotify": "https://open.spotify.com/playlist/3phb6HmOTkdvq6bYFBF5xf",
         "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSKhcg447B7Yc-4t8xIC_7Ew",
         "deezer": "https://deezer.page.link/m8cm17QUN7EPQdD46",
         "tidal": "https://tidal.com/browse/playlist/62a9298f-6c14-4769-9cf6-577eb86adbce"
+      }
+    },
+    {
+      "name": "March 2023 - Nights that won't happen",
+      "lastUpdate": "20230331",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b27300b39b4a73d28536690b355cab67616d0000b27388cea355ba046594ed548effab67616d0000b273896026b8a0337d0b06b5d0daab67616d0000b273bb3680128f4b777a116abafe",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b27300b39b4a73d28536690b355cab67616d0000b27388cea355ba046594ed548effab67616d0000b273896026b8a0337d0b06b5d0daab67616d0000b273bb3680128f4b777a116abafe",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b27300b39b4a73d28536690b355cab67616d0000b27388cea355ba046594ed548effab67616d0000b273896026b8a0337d0b06b5d0daab67616d0000b273bb3680128f4b777a116abafe",
+          "width": 60
+        }
+      ],
+      "category": "monthly",
+      "tags": [],
+      "totalTracks": 20,
+      "url": {
+        "spotify": "https://open.spotify.com/playlist/3XSNX7nqIHgXZSQVavWQ6O",
+        "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSKdQTxmlnaQ7ErG3cqIOG_2",
+        "deezer": "https://deezer.page.link/sPrJzMXPPfmLqpRNA",
+        "tidal": "https://tidal.com/browse/playlist/c8321987-9d3e-4a6e-b2ec-ebde7830802d"
       }
     },
     {
