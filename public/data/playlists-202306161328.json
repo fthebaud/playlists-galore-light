@@ -1,5 +1,5 @@
 {
-  "timestamp": 202303311840,
+  "timestamp": 202306161328,
   "playlists": [
     {
       "name": "Ambient Sounds / Neo-Classical",
@@ -59,6 +59,36 @@
         "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSKhcg447B7Yc-4t8xIC_7Ew",
         "deezer": "https://deezer.page.link/m8cm17QUN7EPQdD46",
         "tidal": "https://tidal.com/browse/playlist/62a9298f-6c14-4769-9cf6-577eb86adbce"
+      }
+    },
+    {
+      "name": "June 2023 - In Wildfires",
+      "lastUpdate": "20230616",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b2731fffb4d9edbbc0426938bdcfab67616d0000b27335c3de6175656a6abf864ce5ab67616d0000b273929dae46c6b93942c7499b7dab67616d0000b273b1fa9f60e11c8ee4ca7b5fee",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b2731fffb4d9edbbc0426938bdcfab67616d0000b27335c3de6175656a6abf864ce5ab67616d0000b273929dae46c6b93942c7499b7dab67616d0000b273b1fa9f60e11c8ee4ca7b5fee",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b2731fffb4d9edbbc0426938bdcfab67616d0000b27335c3de6175656a6abf864ce5ab67616d0000b273929dae46c6b93942c7499b7dab67616d0000b273b1fa9f60e11c8ee4ca7b5fee",
+          "width": 60
+        }
+      ],
+      "category": "monthly",
+      "tags": [],
+      "totalTracks": 20,
+      "url": {
+        "spotify": "https://open.spotify.com/playlist/1wxOK9Mwg99Maqd7sfsg5y",
+        "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSLp08jQSETQ-KnqkP17zjqA",
+        "deezer": "https://deezer.page.link/98hpe15mpauwoSNZA",
+        "tidal": "https://tidal.com/browse/playlist/532fd1b2-0df0-456e-a971-1e7d2ad69962"
       }
     },
     {

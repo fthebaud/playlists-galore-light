@@ -5,7 +5,7 @@ import { PlaylistsResponse } from '@/types';
 // fetch all playlists from public/data/playlists.json
 export async function fetchAllPlaylists(): Promise<PlaylistsResponse> {
   const { data } = await axios.get<PlaylistsResponse>(
-    `${window.location.origin}/data/playlists-202303311840.json`
+    `${window.location.origin}/data/playlists-202306161328.json`
   );
   return data;
 }
