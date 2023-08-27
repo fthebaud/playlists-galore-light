@@ -1,5 +1,5 @@
 {
-  "timestamp": 202306161328,
+  "timestamp": 202308271841,
   "playlists": [
     {
       "name": "Ambient Sounds / Neo-Classical",
@@ -59,6 +59,36 @@
         "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSKhcg447B7Yc-4t8xIC_7Ew",
         "deezer": "https://deezer.page.link/m8cm17QUN7EPQdD46",
         "tidal": "https://tidal.com/browse/playlist/62a9298f-6c14-4769-9cf6-577eb86adbce"
+      }
+    },
+    {
+      "name": "August 2023 - On the waves of time",
+      "lastUpdate": "20230827",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b2730d830a3889104c583daff2e4ab67616d0000b2734dfb8d24be80dcd1c56d011aab67616d0000b273b78008fa0713ff7e5445566bab67616d0000b273ff26bd277274b27f249cc638",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b2730d830a3889104c583daff2e4ab67616d0000b2734dfb8d24be80dcd1c56d011aab67616d0000b273b78008fa0713ff7e5445566bab67616d0000b273ff26bd277274b27f249cc638",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b2730d830a3889104c583daff2e4ab67616d0000b2734dfb8d24be80dcd1c56d011aab67616d0000b273b78008fa0713ff7e5445566bab67616d0000b273ff26bd277274b27f249cc638",
+          "width": 60
+        }
+      ],
+      "category": "monthly",
+      "tags": [],
+      "totalTracks": 22,
+      "url": {
+        "spotify": "https://open.spotify.com/playlist/5mIO2kjLnXOXAOW4PSYupF",
+        "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSLqznd1_r0WOMhZdydnTEd3",
+        "deezer": "https://deezer.page.link/foJyWAZLhMYDLBkL7",
+        "tidal": "https://tidal.com/browse/playlist/1a0b7d61-ed75-446c-a0cd-4dd7668dde8f"
       }
     },
     {
