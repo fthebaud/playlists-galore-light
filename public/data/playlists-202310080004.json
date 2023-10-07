@@ -1,5 +1,5 @@
 {
-  "timestamp": 202308271841,
+  "timestamp": 202310080004,
   "playlists": [
     {
       "name": "Ambient Sounds / Neo-Classical",
@@ -59,6 +59,36 @@
         "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSKhcg447B7Yc-4t8xIC_7Ew",
         "deezer": "https://deezer.page.link/m8cm17QUN7EPQdD46",
         "tidal": "https://tidal.com/browse/playlist/62a9298f-6c14-4769-9cf6-577eb86adbce"
+      }
+    },
+    {
+      "name": "October 2023 - In Strange Ideas",
+      "lastUpdate": "20231008",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b2730f387fd18dfdc5f0c18b80d3ab67616d0000b2731c44c9b9b5305bf50106f16aab67616d0000b2733704e2c270d7a1f7aaaebb8fab67616d0000b273e87fdc9c210bb71275213c14",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b2730f387fd18dfdc5f0c18b80d3ab67616d0000b2731c44c9b9b5305bf50106f16aab67616d0000b2733704e2c270d7a1f7aaaebb8fab67616d0000b273e87fdc9c210bb71275213c14",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b2730f387fd18dfdc5f0c18b80d3ab67616d0000b2731c44c9b9b5305bf50106f16aab67616d0000b2733704e2c270d7a1f7aaaebb8fab67616d0000b273e87fdc9c210bb71275213c14",
+          "width": 60
+        }
+      ],
+      "category": "monthly",
+      "tags": [],
+      "totalTracks": 22,
+      "url": {
+        "spotify": "https://open.spotify.com/playlist/1VD0ntkElnYIWA5o4N3knT",
+        "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSIG3aYBvYMkZtwIYGvkHMNY",
+        "deezer": "https://deezer.page.link/qrP5Vi5vpHLCjQWi9",
+        "tidal": "https://tidal.com/browse/playlist/d943f5ab-5c49-4d82-b508-a9dc28b586b9"
       }
     },
     {
