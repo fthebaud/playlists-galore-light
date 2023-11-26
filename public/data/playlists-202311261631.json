@@ -1,5 +1,5 @@
 {
-  "timestamp": 202310080004,
+  "timestamp": 202311261631,
   "playlists": [
     {
       "name": "Ambient Sounds / Neo-Classical",
@@ -59,6 +59,36 @@
         "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSKhcg447B7Yc-4t8xIC_7Ew",
         "deezer": "https://deezer.page.link/m8cm17QUN7EPQdD46",
         "tidal": "https://tidal.com/browse/playlist/62a9298f-6c14-4769-9cf6-577eb86adbce"
+      }
+    },
+    {
+      "name": "November 2023 - Trapped In The Skies",
+      "lastUpdate": "20231126",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b2730c40dbf42f0eece3c01a439dab67616d0000b2736d6f39d48e1c7077828379a8ab67616d0000b27370e29fd066be61d545c27959ab67616d0000b273a436dc1e07717be67a454545",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b2730c40dbf42f0eece3c01a439dab67616d0000b2736d6f39d48e1c7077828379a8ab67616d0000b27370e29fd066be61d545c27959ab67616d0000b273a436dc1e07717be67a454545",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b2730c40dbf42f0eece3c01a439dab67616d0000b2736d6f39d48e1c7077828379a8ab67616d0000b27370e29fd066be61d545c27959ab67616d0000b273a436dc1e07717be67a454545",
+          "width": 60
+        }
+      ],
+      "category": "monthly",
+      "tags": [],
+      "totalTracks": 16,
+      "url": {
+        "spotify": "https://open.spotify.com/playlist/6CYSchFMO1LdOqZPCvDPVI",
+        "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSLemKqNjUh-AoS3cLXh_0K9",
+        "deezer": "https://deezer.page.link/mma2xVNEwghWwVS37",
+        "tidal": "https://tidal.com/browse/playlist/5652ba15-f7d1-4bca-a73c-94eaca123a2d"
       }
     },
     {
