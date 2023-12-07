@@ -1,5 +1,5 @@
 {
-  "timestamp": 202311261631,
+  "timestamp": 202312072211,
   "playlists": [
     {
       "name": "Ambient Sounds / Neo-Classical",
@@ -59,6 +59,36 @@
         "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSKhcg447B7Yc-4t8xIC_7Ew",
         "deezer": "https://deezer.page.link/m8cm17QUN7EPQdD46",
         "tidal": "https://tidal.com/browse/playlist/62a9298f-6c14-4769-9cf6-577eb86adbce"
+      }
+    },
+    {
+      "name": "December 2023 -  Working On A Way To Remember",
+      "lastUpdate": "20231207",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b2733cd116d8b4a26ce7b8b70475ab67616d0000b273e2b82066b6e43424650667bdab67616d0000b273ebc45399b51f80d9b8e8cd3eab67616d0000b273ec25f9f91c263839abfb1435",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b2733cd116d8b4a26ce7b8b70475ab67616d0000b273e2b82066b6e43424650667bdab67616d0000b273ebc45399b51f80d9b8e8cd3eab67616d0000b273ec25f9f91c263839abfb1435",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b2733cd116d8b4a26ce7b8b70475ab67616d0000b273e2b82066b6e43424650667bdab67616d0000b273ebc45399b51f80d9b8e8cd3eab67616d0000b273ec25f9f91c263839abfb1435",
+          "width": 60
+        }
+      ],
+      "category": "monthly",
+      "tags": [],
+      "totalTracks": 22,
+      "url": {
+        "spotify": "https://open.spotify.com/playlist/6GB8NOr7z9jVnfq5jHoro3",
+        "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSLP_U0vU3CRASOuUqIy8TRD",
+        "deezer": "https://deezer.page.link/swgAEpS6fB43zQ8d8",
+        "tidal": "https://tidal.com/browse/playlist/9679dfac-5d50-4125-9a81-9b65e8f80e57"
       }
     },
     {
