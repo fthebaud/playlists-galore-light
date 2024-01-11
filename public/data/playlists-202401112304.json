@@ -1,5 +1,5 @@
 {
-  "timestamp": 202312072211,
+  "timestamp": 202401112304,
   "playlists": [
     {
       "name": "Ambient Sounds / Neo-Classical",
@@ -59,6 +59,37 @@
         "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSKhcg447B7Yc-4t8xIC_7Ew",
         "deezer": "https://deezer.page.link/m8cm17QUN7EPQdD46",
         "tidal": "https://tidal.com/browse/playlist/62a9298f-6c14-4769-9cf6-577eb86adbce"
+      }
+    },
+    {
+      "name": "January 2024 - Curieux face à face",
+      "lastUpdate": "20240111",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b27325e797d3bffa608ae89b0b4fab67616d0000b2734ff03e0f8b9c600b6e48b382ab67616d0000b273b2654e4de1500fb793a02685ab67616d0000b273b806e6dddfbca4588caa102b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b27325e797d3bffa608ae89b0b4fab67616d0000b2734ff03e0f8b9c600b6e48b382ab67616d0000b273b2654e4de1500fb793a02685ab67616d0000b273b806e6dddfbca4588caa102b",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b27325e797d3bffa608ae89b0b4fab67616d0000b2734ff03e0f8b9c600b6e48b382ab67616d0000b273b2654e4de1500fb793a02685ab67616d0000b273b806e6dddfbca4588caa102b",
+          "width": 60
+        }
+      ],
+
+      "category": "monthly",
+      "tags": [],
+      "totalTracks": 21,
+      "url": {
+        "spotify": "https://open.spotify.com/playlist/6ut0eTgrQJsfm89fEQJxoJ",
+        "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSK8gJ651_SHsa5FZLPpPGCe",
+        "deezer": "https://deezer.page.link/VWFo2mQjbdY8LuCK9",
+        "tidal": "https://tidal.com/browse/playlist/8538ba0b-9175-4b28-aeb7-97411e321d6d"
       }
     },
     {
