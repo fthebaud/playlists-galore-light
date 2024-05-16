@@ -1,5 +1,5 @@
 {
-  "timestamp": 202401112304,
+  "timestamp": 202405162002,
   "playlists": [
     {
       "name": "Ambient Sounds / Neo-Classical",
@@ -62,6 +62,36 @@
       }
     },
     {
+      "name": "May 2024 - That seems like a lot of garlic",
+      "lastUpdate": "20240516",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e020b01fa238592b9c9eeceebe0ab67616d00001e021e218d8336b2b8757086d1a3ab67616d00001e02c5112c0278ff467eee7f30c2ab67616d00001e02f206f7d3727972b3b7268faa",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e020b01fa238592b9c9eeceebe0ab67616d00001e021e218d8336b2b8757086d1a3ab67616d00001e02c5112c0278ff467eee7f30c2ab67616d00001e02f206f7d3727972b3b7268faa",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e020b01fa238592b9c9eeceebe0ab67616d00001e021e218d8336b2b8757086d1a3ab67616d00001e02c5112c0278ff467eee7f30c2ab67616d00001e02f206f7d3727972b3b7268faa",
+          "width": 60
+        }
+      ],
+      "category": "monthly",
+      "tags": [],
+      "totalTracks": 27,
+      "url": {
+        "spotify": "https://open.spotify.com/playlist/1uDhN3M6WfSr0uZFv6ZCRu",
+        "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSIwfkT2j0kfvIVMvxa_hsZc",
+        "deezer": "https://deezer.page.link/cxgUGnLeJsuTrCuK7",
+        "tidal": "https://tidal.com/browse/playlist/3ded9aa2-61bd-41f5-ae14-f0341ff4b095"
+      }
+    },
+    {
       "name": "January 2024 - Curieux face à face",
       "lastUpdate": "20240111",
       "images": [
@@ -81,7 +111,6 @@
           "width": 60
         }
       ],
-
       "category": "monthly",
       "tags": [],
       "totalTracks": 21,
