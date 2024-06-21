@@ -1,5 +1,5 @@
 {
-  "timestamp": 202405162002,
+  "timestamp": 202406211821,
   "playlists": [
     {
       "name": "Ambient Sounds / Neo-Classical",
@@ -59,6 +59,36 @@
         "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSKhcg447B7Yc-4t8xIC_7Ew",
         "deezer": "https://deezer.page.link/m8cm17QUN7EPQdD46",
         "tidal": "https://tidal.com/browse/playlist/62a9298f-6c14-4769-9cf6-577eb86adbce"
+      }
+    },
+    {
+      "name": "June 2024 - Looking For A Feeling",
+      "lastUpdate": "20240621",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e025b926d3fc301b956b50432b9ab67616d00001e02699df5045c251377cd29e3b4ab67616d00001e02e3de5515289d543438547b71ab67616d00001e02fe532b7866bf15a43ab5fc8d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e025b926d3fc301b956b50432b9ab67616d00001e02699df5045c251377cd29e3b4ab67616d00001e02e3de5515289d543438547b71ab67616d00001e02fe532b7866bf15a43ab5fc8d",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e025b926d3fc301b956b50432b9ab67616d00001e02699df5045c251377cd29e3b4ab67616d00001e02e3de5515289d543438547b71ab67616d00001e02fe532b7866bf15a43ab5fc8d",
+          "width": 60
+        }
+      ],
+      "category": "monthly",
+      "tags": [],
+      "totalTracks": 20,
+      "url": {
+        "spotify": "https://open.spotify.com/playlist/74keWCN7dUO7Cb142vaAw3",
+        "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSK_Vtc0Jj6d4vH7Rq7QrcdT",
+        "deezer": "https://deezer.page.link/Hke1W2cHKoqyuhL9A",
+        "tidal": "https://tidal.com/browse/playlist/b1128c05-7ad7-4fa4-ada9-4031285b9039"
       }
     },
     {
