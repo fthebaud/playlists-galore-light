@@ -94,13 +94,13 @@ function Card({ playlist }: Props) {
         <RightContainer>
           <TracksTotal>{`${playlist.totalTracks} tracks`}</TracksTotal>
           <LinksContainer>
-            <div title="Spotify">
+            <div title="Tidal">
               <Link
-                href={playlist.url.spotify}
+                href={playlist.url.tidal}
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <SpotifyIcon />
+                <TidalIcon />
               </Link>
             </div>
             <div title="Youtube Music">
@@ -121,13 +121,13 @@ function Card({ playlist }: Props) {
                 <DeezerIcon />
               </Link>
             </div>
-            <div title="Tidal">
+            <div title="Spotify">
               <Link
-                href={playlist.url.tidal}
+                href={playlist.url.spotify}
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <TidalIcon />
+                <SpotifyIcon />
               </Link>
             </div>
             {/* <div title="Apple Music">
