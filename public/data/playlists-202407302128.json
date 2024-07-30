@@ -1,5 +1,5 @@
 {
-  "timestamp": 202406211821,
+  "timestamp": 202407302128,
   "playlists": [
     {
       "name": "Ambient Sounds / Neo-Classical",
@@ -59,6 +59,36 @@
         "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSKhcg447B7Yc-4t8xIC_7Ew",
         "deezer": "https://deezer.page.link/m8cm17QUN7EPQdD46",
         "tidal": "https://tidal.com/browse/playlist/62a9298f-6c14-4769-9cf6-577eb86adbce"
+      }
+    },
+    {
+      "name": "July 2024 - When Night Will Bloom",
+      "lastUpdate": "20240730",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e02712701c5e263efc8726b1464ab67616d00001e027a830fd8bf8f1df39af83c7aab67616d00001e027fbf93cea6780bfa0399a62cab67616d00001e02b8ab48c35bf93c0ddb44fa53",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e02712701c5e263efc8726b1464ab67616d00001e027a830fd8bf8f1df39af83c7aab67616d00001e027fbf93cea6780bfa0399a62cab67616d00001e02b8ab48c35bf93c0ddb44fa53",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e02712701c5e263efc8726b1464ab67616d00001e027a830fd8bf8f1df39af83c7aab67616d00001e027fbf93cea6780bfa0399a62cab67616d00001e02b8ab48c35bf93c0ddb44fa53",
+          "width": 60
+        }
+      ],
+      "category": "monthly",
+      "tags": [],
+      "totalTracks": 21,
+      "url": {
+        "spotify": "https://open.spotify.com/playlist/3d2AsI6KDNRu5plXPBBTmN",
+        "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSJjl1GwVfRNhimPRUG8Zfe8",
+        "deezer": "https://deezer.page.link/VinFdgt4SDgpULYj6",
+        "tidal": "https://tidal.com/browse/playlist/ea63234a-ca62-4182-821a-b5f0e9d3e108"
       }
     },
     {
