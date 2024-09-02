@@ -1,5 +1,5 @@
 {
-  "timestamp": 202407302128,
+  "timestamp": 202409022249,
   "playlists": [
     {
       "name": "Ambient Sounds / Neo-Classical",
@@ -59,6 +59,36 @@
         "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSKhcg447B7Yc-4t8xIC_7Ew",
         "deezer": "https://deezer.page.link/m8cm17QUN7EPQdD46",
         "tidal": "https://tidal.com/browse/playlist/62a9298f-6c14-4769-9cf6-577eb86adbce"
+      }
+    },
+    {
+      "name": "September 2024 - Just A Minute Too Late",
+      "lastUpdate": "20240902",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e025a4d0c41fe3f12fdd304b59fab67616d00001e028997502b67ebc1e5f3d26bccab67616d00001e02c4d77bad843dfae691cca473ab67616d00001e02db461d53ab4b7d99cea2de91",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e025a4d0c41fe3f12fdd304b59fab67616d00001e028997502b67ebc1e5f3d26bccab67616d00001e02c4d77bad843dfae691cca473ab67616d00001e02db461d53ab4b7d99cea2de91",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e025a4d0c41fe3f12fdd304b59fab67616d00001e028997502b67ebc1e5f3d26bccab67616d00001e02c4d77bad843dfae691cca473ab67616d00001e02db461d53ab4b7d99cea2de91",
+          "width": 60
+        }
+      ],
+      "category": "monthly",
+      "tags": [],
+      "totalTracks": 17,
+      "url": {
+        "spotify": "https://open.spotify.com/playlist/20a9hnhhPVDGHAd5Rviepe",
+        "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSLl4DZwjt802z32zxLmsQBg",
+        "deezer": "https://deezer.page.link/rKFikGCKwaYfCWwd6",
+        "tidal": "https://tidal.com/browse/playlist/9566ad71-0091-4ce0-a9cd-14987ca9d06d"
       }
     },
     {
