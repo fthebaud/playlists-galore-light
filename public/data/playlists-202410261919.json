@@ -1,5 +1,5 @@
 {
-  "timestamp": 202409022249,
+  "timestamp": 202410261919,
   "playlists": [
     {
       "name": "Ambient Sounds / Neo-Classical",
@@ -59,6 +59,36 @@
         "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSKhcg447B7Yc-4t8xIC_7Ew",
         "deezer": "https://deezer.page.link/m8cm17QUN7EPQdD46",
         "tidal": "https://tidal.com/browse/playlist/62a9298f-6c14-4769-9cf6-577eb86adbce"
+      }
+    },
+    {
+      "name": "October 2024 - Fog Lights",
+      "lastUpdate": "20241026",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e020b6a51c2dc3c3df9c3a743d1ab67616d00001e026de45e2d041eb2412e692c8eab67616d00001e02746c486801f546b254b8f6b9ab67616d00001e028b2d89fc627738b9236389bf",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e020b6a51c2dc3c3df9c3a743d1ab67616d00001e026de45e2d041eb2412e692c8eab67616d00001e02746c486801f546b254b8f6b9ab67616d00001e028b2d89fc627738b9236389bf",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e020b6a51c2dc3c3df9c3a743d1ab67616d00001e026de45e2d041eb2412e692c8eab67616d00001e02746c486801f546b254b8f6b9ab67616d00001e028b2d89fc627738b9236389bf",
+          "width": 60
+        }
+      ],
+      "category": "monthly",
+      "tags": [],
+      "totalTracks": 25,
+      "url": {
+        "spotify": "https://open.spotify.com/playlist/2e5TQKSRR3g5XChTtWJGvZ",
+        "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSLdlWDydGdz-znHYpQIlZLI",
+        "deezer": "https://deezer.page.link/65BYtoKK7NuEnfZv7",
+        "tidal": "https://tidal.com/browse/playlist/a0c7e270-20a1-4acb-bfff-01dbfbb8b1b6"
       }
     },
     {
