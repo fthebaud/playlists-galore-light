@@ -1,5 +1,5 @@
 {
-  "timestamp": 202410261919,
+  "timestamp": 202411081852,
   "playlists": [
     {
       "name": "Ambient Sounds / Neo-Classical",
@@ -59,6 +59,36 @@
         "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSKhcg447B7Yc-4t8xIC_7Ew",
         "deezer": "https://deezer.page.link/m8cm17QUN7EPQdD46",
         "tidal": "https://tidal.com/browse/playlist/62a9298f-6c14-4769-9cf6-577eb86adbce"
+      }
+    },
+    {
+      "name": "November 2024 - Didn't It Rain",
+      "lastUpdate": "20241108",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e0260f5988137881a512dacf7e4ab67616d00001e0278517c403f6be8c22c594429ab67616d00001e0279711d20bab297cfa7d62fa8ab67616d00001e02eb70b4a8562f8a40859621a2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e0260f5988137881a512dacf7e4ab67616d00001e0278517c403f6be8c22c594429ab67616d00001e0279711d20bab297cfa7d62fa8ab67616d00001e02eb70b4a8562f8a40859621a2",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e0260f5988137881a512dacf7e4ab67616d00001e0278517c403f6be8c22c594429ab67616d00001e0279711d20bab297cfa7d62fa8ab67616d00001e02eb70b4a8562f8a40859621a2",
+          "width": 60
+        }
+      ],
+      "category": "monthly",
+      "tags": [],
+      "totalTracks": 20,
+      "url": {
+        "spotify": "https://open.spotify.com/playlist/3A33d17JMY2ShqnXwiOIST",
+        "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSLl8fBj_49CWG1U3xLoRLKi",
+        "deezer": "https://deezer.page.link/1GCoHU4EKadhUdBY7",
+        "tidal": "https://tidal.com/browse/playlist/1d43dabc-2097-4774-9173-d78080c90b52"
       }
     },
     {
