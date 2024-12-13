@@ -1,5 +1,5 @@
 {
-  "timestamp": 202411081852,
+  "timestamp": 202412131858,
   "playlists": [
     {
       "name": "Ambient Sounds / Neo-Classical",
@@ -59,6 +59,36 @@
         "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSKhcg447B7Yc-4t8xIC_7Ew",
         "deezer": "https://deezer.page.link/m8cm17QUN7EPQdD46",
         "tidal": "https://tidal.com/browse/playlist/62a9298f-6c14-4769-9cf6-577eb86adbce"
+      }
+    },
+    {
+      "name": "December 2024 - Everything's Burning Down",
+      "lastUpdate": "20241213",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e025fdb390436a5bee796296d97ab67616d00001e02b00fba7798730dd987d7c44fab67616d00001e02baf75feff7c9a2c4ceaee87eab67616d00001e02e7f239fbcc089c56cad7e3f4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e025fdb390436a5bee796296d97ab67616d00001e02b00fba7798730dd987d7c44fab67616d00001e02baf75feff7c9a2c4ceaee87eab67616d00001e02e7f239fbcc089c56cad7e3f4",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e025fdb390436a5bee796296d97ab67616d00001e02b00fba7798730dd987d7c44fab67616d00001e02baf75feff7c9a2c4ceaee87eab67616d00001e02e7f239fbcc089c56cad7e3f4",
+          "width": 60
+        }
+      ],
+      "category": "monthly",
+      "tags": [],
+      "totalTracks": 20,
+      "url": {
+        "spotify": "https://open.spotify.com/playlist/0p30IPPaPMgJ2BwBU5yfaI",
+        "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSIK-iHqKNSp-AlYrupW3PNQ",
+        "deezer": "https://deezer.page.link/rYbZxdsPVdxsiL8N8",
+        "tidal": "https://tidal.com/browse/playlist/b52137aa-99ce-4b66-9381-2b1f20489ae1"
       }
     },
     {
