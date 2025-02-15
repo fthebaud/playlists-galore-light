@@ -2,6 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import { spacing, FONT } from '@/theme';
 import NavBar from './NavBar';
+import Announcement from './announcement';
 
 const StyledHeader = styled.header`
   padding: ${spacing(2)};
@@ -22,11 +23,14 @@ const SubTitle = styled.div`
 
 function Header() {
   return (
-    <StyledHeader>
-      <Title>PLAYLISTS GALORE</Title>
-      <SubTitle>A great collection of playlists!</SubTitle>
-      <NavBar />
-    </StyledHeader>
+    <>
+      <StyledHeader>
+        <Title>PLAYLISTS GALORE</Title>
+        <SubTitle>A great collection of playlists!</SubTitle>
+        <NavBar />
+      </StyledHeader>
+      <Announcement />
+    </>
   );
 }
 
